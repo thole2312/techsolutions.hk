@@ -1,12 +1,12 @@
 <!DOCTYPE html>
-<!-- saved from url=(0033)https://techsolutions.hk/about -->
+<!-- saved from url=(0033)https://techsolutions.hk/about-us -->
 <html xmlns="http://www.w3.org/1999/xhtml" class="j4" xml:lang="en-gb" lang="en-gb" dir="ltr"><script src="chrome-extension://jnlgamecbpmbajjfhmmmlhejkemejdma/static/js/inpage.js"></script><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   
   
 	<meta name="generator" content="Joomla! - Open Source Content Management">
 	<title>About Us</title>
-	<link href="https://techsolutions.hk/about?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="About Us">
-	<link href="https://techsolutions.hk/about?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="About Us">
+	<link href="https://techsolutions.hk/about-us?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="About Us">
+	<link href="https://techsolutions.hk/about-us?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="About Us">
 	<link href="https://techsolutions.hk/images/techsolutions/favicon%20v2-techsolutions.png" rel="shortcut icon" type="image/vnd.microsoft.icon">
 <link href="./index_files/all.min.css" rel="stylesheet">
 	<link href="./index_files/all(1).min.css" rel="stylesheet">
@@ -83,7 +83,7 @@ acymModule["excludeValuesformAcym31601"]["2"] = "Email";  });</script>
 </ul></div>
 </div></div></div><div class="t4-module module mod-menu-flex " id="Mod129"><div class="module-inner"><div class="module-ct"><nav class="navbar drilldown-effect" style="overflow: unset; transition: transform 300ms, height 300ms;">
 <ul class="nav navbar-nav ">
-<li class="nav-item item-101 default"><a href="https://techsolutions.hk/" itemprop="url" class="nav-link"><span itemprop="name"><span class="menu-item-title">Home</span></span></a></li><li class="nav-item item-139 current active"><a href="https://techsolutions.hk/about" itemprop="url" class="nav-link" aria-current="page"><span itemprop="name"><span class="menu-item-title">About Us</span></span></a></li><li class="nav-item item-155"><a href="https://techsolutions.hk/services" itemprop="url" class="nav-link"><span itemprop="name"><span class="menu-item-title">Services</span></span></a></li><li class="nav-item item-180"><a href="https://techsolutions.hk/blog" itemprop="url" class=" nav-link"><span itemprop="name"><span class="menu-item-title">Our Blogs</span></span></a></li><li class="nav-item item-157"><a href="https://techsolutions.hk/products" itemprop="url" class="nav-link"><span itemprop="name"><span class="menu-item-title">Products</span></span></a></li><li class="nav-item item-123"><a href="https://techsolutions.hk/contact" itemprop="url" class="nav-link"><span itemprop="name"><span class="menu-item-title">Contact</span></span></a></li></ul></nav></div></div></div>
+<li class="nav-item item-101 default"><a href="https://techsolutions.hk/" itemprop="url" class="nav-link"><span itemprop="name"><span class="menu-item-title">Home</span></span></a></li><li class="nav-item item-139 current active"><a href="https://techsolutions.hk/about-us" itemprop="url" class="nav-link" aria-current="page"><span itemprop="name"><span class="menu-item-title">About Us</span></span></a></li><li class="nav-item item-155"><a href="https://techsolutions.hk/services" itemprop="url" class="nav-link"><span itemprop="name"><span class="menu-item-title">Services</span></span></a></li><li class="nav-item item-180"><a href="https://techsolutions.hk/blog" itemprop="url" class=" nav-link"><span itemprop="name"><span class="menu-item-title">Our Blogs</span></span></a></li><li class="nav-item item-157"><a href="https://techsolutions.hk/products" itemprop="url" class="nav-link"><span itemprop="name"><span class="menu-item-title">Products</span></span></a></li><li class="nav-item item-123"><a href="https://techsolutions.hk/contact" itemprop="url" class="nav-link"><span itemprop="name"><span class="menu-item-title">Contact</span></span></a></li></ul></nav></div></div></div>
 	</div>
 
 	</div><div class="horizontal-nav">
@@ -111,19 +111,19 @@ acymModule["excludeValuesformAcym31601"]["2"] = "Email";  });</script>
   <div class="social-follow-wrap">
     <div class="social-follow d-flex">
     	      	<div class="social-inner">
-      		<a href="https://techsolutions.hk/about#" title="">
+      		<a href="https://techsolutions.hk/about-us#" title="">
             <span class="fa fa-facebook"></span>
       			<span class="d-none"></span>
       		</a>
       	</div>
             	<div class="social-inner">
-      		<a href="https://techsolutions.hk/about#" title="">
+      		<a href="https://techsolutions.hk/about-us#" title="">
             <span class="fa fa-twitter"></span>
       			<span class="d-none"></span>
       		</a>
       	</div>
             	<div class="social-inner">
-      		<a href="https://techsolutions.hk/about#" title="">
+      		<a href="https://techsolutions.hk/about-us#" title="">
             <span class="fa fa-instagram"></span>
       			<span class="d-none"></span>
       		</a>
@@ -158,7 +158,7 @@ acymModule["excludeValuesformAcym31601"]["2"] = "Email";  });</script>
 	<div id="t4-megamenu-mainmenu" class="t4-megamenu collapse navbar-collapse slide animate" data-duration="400">
 
 <ul class="nav navbar-nav level0" itemscope="itemscope" itemtype="http://www.schema.org/SiteNavigationElement">
-<li class="nav-item default" data-id="101" data-level="1"><a href="https://techsolutions.hk/" itemprop="url" class="nav-link"><span itemprop="name"><span class="menu-item-title">Home</span></span></a></li><li class="nav-item current active" data-id="139" data-level="1"><a href="https://techsolutions.hk/about" itemprop="url" class="nav-link" aria-current="page"><span itemprop="name"><span class="menu-item-title">About Us</span></span></a></li><li class="nav-item" data-id="155" data-level="1"><a href="https://techsolutions.hk/services" itemprop="url" class="nav-link"><span itemprop="name"><span class="menu-item-title">Services</span></span></a></li><li class="nav-item" data-id="180" data-level="1"><a href="https://techsolutions.hk/blog" itemprop="url" class=" nav-link"><span itemprop="name"><span class="menu-item-title">Our Blogs</span></span></a></li><li class="nav-item" data-id="157" data-level="1"><a href="https://techsolutions.hk/products" itemprop="url" class="nav-link"><span itemprop="name"><span class="menu-item-title">Products</span></span></a></li><li class="nav-item" data-id="123" data-level="1"><a href="https://techsolutions.hk/contact" itemprop="url" class="nav-link"><span itemprop="name"><span class="menu-item-title">Contact</span></span></a></li></ul></div>
+<li class="nav-item default" data-id="101" data-level="1"><a href="https://techsolutions.hk/" itemprop="url" class="nav-link"><span itemprop="name"><span class="menu-item-title">Home</span></span></a></li><li class="nav-item current active" data-id="139" data-level="1"><a href="https://techsolutions.hk/about-us" itemprop="url" class="nav-link" aria-current="page"><span itemprop="name"><span class="menu-item-title">About Us</span></span></a></li><li class="nav-item" data-id="155" data-level="1"><a href="https://techsolutions.hk/services" itemprop="url" class="nav-link"><span itemprop="name"><span class="menu-item-title">Services</span></span></a></li><li class="nav-item" data-id="180" data-level="1"><a href="https://techsolutions.hk/blog" itemprop="url" class=" nav-link"><span itemprop="name"><span class="menu-item-title">Our Blogs</span></span></a></li><li class="nav-item" data-id="157" data-level="1"><a href="https://techsolutions.hk/products" itemprop="url" class="nav-link"><span itemprop="name"><span class="menu-item-title">Products</span></span></a></li><li class="nav-item" data-id="123" data-level="1"><a href="https://techsolutions.hk/contact" itemprop="url" class="nav-link"><span itemprop="name"><span class="menu-item-title">Contact</span></span></a></li></ul></div>
 </nav>
 
     </div>
@@ -302,7 +302,7 @@ There is a group of young staff who are friendly and dynamic.
 					
 					
 					            <div class="acm-action aos-init" data-aos="fade-up" data-aos-delay="1300">
-                              <a href="https://techsolutions.hk/about" class="btn btn-outline-light">
+                              <a href="https://techsolutions.hk/about-us" class="btn btn-outline-light">
                   View more    
                 </a>
                           </div>
@@ -341,7 +341,7 @@ There is a group of young staff who are friendly and dynamic.
 					
 					
 					            <div class="acm-action aos-init" data-aos="fade-up" data-aos-delay="1300">
-                              <a href="https://techsolutions.hk/about" class="btn btn-outline-light">
+                              <a href="https://techsolutions.hk/about-us" class="btn btn-outline-light">
                   View more    
                 </a>
                           </div>
@@ -434,7 +434,7 @@ There is a group of young staff who are friendly and dynamic.
           <div class="col">
             <div class="t4-module module " id="Mod112"><div class="module-inner"><h3 class="module-title "><span>Others</span></h3><div class="module-ct"><nav class="navbar">
 <ul class="nav navbar-nav ">
-<li class="nav-item item-225 current active"><a href="https://techsolutions.hk/about" itemprop="url" class=" nav-link"><span itemprop="name"><span class="menu-item-title">About us</span></span></a></li><li class="nav-item item-226"><a href="https://techsolutions.hk/contact" itemprop="url" class=" nav-link"><span itemprop="name"><span class="menu-item-title">Contact</span></span></a></li></ul></nav></div></div></div>
+<li class="nav-item item-225 current active"><a href="https://techsolutions.hk/about-us" itemprop="url" class=" nav-link"><span itemprop="name"><span class="menu-item-title">About us</span></span></a></li><li class="nav-item item-226"><a href="https://techsolutions.hk/contact" itemprop="url" class=" nav-link"><span itemprop="name"><span class="menu-item-title">Contact</span></span></a></li></ul></nav></div></div></div>
           </div>
 
           <div class="col">
